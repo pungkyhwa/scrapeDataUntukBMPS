@@ -1,0 +1,172 @@
+2024-12-07 19:18:12,425 - Error pada link https://dapo.kemdikbud.go.id/sekolah/1C1E087822167D089DB2                                                                                : list index out of range
+2024-12-07 19:19:06,832 - Error pada link https://dapo.kemdikbud.go.id/sekolah/2F6EF8E5690B546505C0                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:19:07,757 - Error pada link https://dapo.kemdikbud.go.id/sekolah/578758D4F8B18BC8747C                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 19:19:24,796 - Error pada link https://dapo.kemdikbud.go.id/sekolah/970AFD38F35C76048171                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 19:20:03,074 - Error pada link https://dapo.kemdikbud.go.id/sekolah/5D7148C21508A6988465                                                                                : list index out of range
+2024-12-07 19:21:14,650 - Error pada link https://dapo.kemdikbud.go.id/sekolah/9316CDFA76974916D494                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 19:24:06,756 - Error pada link https://dapo.kemdikbud.go.id/sekolah/DC900BB6AF4D3CC1F61A                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:26:09,499 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6276B084494701085B1B                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 19:27:49,048 - Error pada link https://dapo.kemdikbud.go.id/sekolah/636CD78EAD999CC5BA8F                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 19:29:06,447 - Error pada link https://dapo.kemdikbud.go.id/sekolah/E6A75AB7299A4FB74557                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 19:29:37,541 - Error pada link https://dapo.kemdikbud.go.id/sekolah/21FDEF8A10BB03A08766                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 19:30:29,824 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6D4F304C71264044EC33                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:34:17,706 - Error pada link https://dapo.kemdikbud.go.id/sekolah/0A0B610B41D4F41DA28F                                                                                : list index out of range
+2024-12-07 19:35:27,249 - Error pada link https://dapo.kemdikbud.go.id/sekolah/FF2DA73C999692CF59B2                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 19:38:58,842 - Error pada link https://dapo.kemdikbud.go.id/sekolah/E7D8E6C083D6BC3334D9                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:40:53,113 - Error pada link https://dapo.kemdikbud.go.id/sekolah/972AA58CD743BD069EBB                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:42:15,765 - Error pada link https://dapo.kemdikbud.go.id/sekolah/E9647A0440423BE13B0D                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:46:32,270 - Error pada link https://dapo.kemdikbud.go.id/sekolah/8FE7945E7B0DB0B5C04A                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:50:35,877 - Error pada link https://dapo.kemdikbud.go.id/sekolah/F7A9B35B587772D0551A                                                                                : list index out of range
+2024-12-07 19:51:16,806 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6A4F9F2FF7B2D4E9F0FB                                                                                : list index out of range
+2024-12-07 19:52:56,463 - Error pada link https://dapo.kemdikbud.go.id/sekolah/F67703E59003D22F7319                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:54:06,340 - Error pada link https://dapo.kemdikbud.go.id/sekolah/03B030EF030A40B8BEE0                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:55:56,319 - Error pada link https://dapo.kemdikbud.go.id/sekolah/795A8D9D3DED1911197A                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:56:17,334 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6ED117D5472E65593ED7                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 19:56:24,988 - Error pada link https://dapo.kemdikbud.go.id/sekolah/1665EBF3555C41659BD4                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 19:58:15,676 - Error pada link https://dapo.kemdikbud.go.id/sekolah/EB3360FD7EFA6B113B9F                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 20:01:16,444 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6455D068CFFDD4DBB274                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 20:02:15,650 - Error pada link https://dapo.kemdikbud.go.id/sekolah/EB8536BB9A75182219F5                                                                                : list index out of range
+2024-12-07 20:02:45,421 - Error pada link https://dapo.kemdikbud.go.id/sekolah/39677639FF4CB707DE8D                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 20:03:28,091 - Error pada link https://dapo.kemdikbud.go.id/sekolah/C4331CF4B8F194A25C66                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 20:03:29,754 - Error pada link https://dapo.kemdikbud.go.id/sekolah/31D2A656ACD67512846C                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 20:04:27,211 - Error pada link https://dapo.kemdikbud.go.id/sekolah/5DE54D230910DAD63F9F                                                                                : list index out of range
+2024-12-07 20:04:47,472 - Error pada link https://dapo.kemdikbud.go.id/sekolah/2DB236AA64316282A752                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 20:08:16,524 - Error pada link https://dapo.kemdikbud.go.id/sekolah/17B04DA4B4FD69883010                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 20:08:56,956 - Error pada link https://dapo.kemdikbud.go.id/sekolah/AC68F702BD3F00F87DD9                                                                                : list index out of range
+2024-12-07 20:14:42,558 - Error pada link https://dapo.kemdikbud.go.id/sekolah/7FC99F1BFA6FCCFE9548                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 20:17:49,657 - Error pada link https://dapo.kemdikbud.go.id/sekolah/DCC66C5378D013CE81D5                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 20:21:30,363 - Error pada link https://dapo.kemdikbud.go.id/sekolah/A3859BDFACDCB0A8CFDD                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 20:22:49,144 - Error pada link https://dapo.kemdikbud.go.id/sekolah/2F8D5232C5C5EB03E642                                                                                : list index out of range
+2024-12-07 20:25:42,685 - Error pada link https://dapo.kemdikbud.go.id/sekolah/F42B88EE570FCB027A51                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 20:28:35,054 - Error pada link https://dapo.kemdikbud.go.id/sekolah/C0E94F1EBF2AA56C1728                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 20:30:46,497 - Error pada link https://dapo.kemdikbud.go.id/sekolah/4A7433A717FCB82DB9DB                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 20:31:22,723 - Error pada link https://dapo.kemdikbud.go.id/sekolah/822581A893135F73E137                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 20:36:26,907 - Error pada link https://dapo.kemdikbud.go.id/sekolah/66439508BD0F442F3388                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 20:42:29,523 - Error pada link https://dapo.kemdikbud.go.id/sekolah/CEB34E47DA44AE24A828                                                                                : list index out of range
+2024-12-07 20:45:11,202 - Error pada link https://dapo.kemdikbud.go.id/sekolah/51EA5FE8F0E87F51DEBF                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 20:46:53,699 - Error pada link https://dapo.kemdikbud.go.id/sekolah/D3C69EC6A84EAE02EB21                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 20:53:24,317 - Error pada link https://dapo.kemdikbud.go.id/sekolah/A4D564B978F9372720E7                                                                                : Message: timeout: Timed out receiving message from renderer: 293.826
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF766AB6CF5+28821]
+	(No symbol) [0x00007FF766A23880]
+	(No symbol) [0x00007FF7668C578A]
+	(No symbol) [0x00007FF7668B3992]
+	(No symbol) [0x00007FF7668B365A]
+	(No symbol) [0x00007FF7668B1274]
+	(No symbol) [0x00007FF7668B1D1F]
+	(No symbol) [0x00007FF7668C084E]
+	(No symbol) [0x00007FF7668D492D]
+	(No symbol) [0x00007FF7668DB10A]
+	(No symbol) [0x00007FF7668B2484]
+	(No symbol) [0x00007FF7668D4753]
+	(No symbol) [0x00007FF76695F75A]
+	(No symbol) [0x00007FF76693F0A3]
+	(No symbol) [0x00007FF76690A778]
+	(No symbol) [0x00007FF76690B8E1]
+	GetHandleVerifier [0x00007FF766DEFCED+3408013]
+	GetHandleVerifier [0x00007FF766E0745F+3504127]
+	GetHandleVerifier [0x00007FF766DFB63D+3455453]
+	GetHandleVerifier [0x00007FF766B7BDFB+835995]
+	(No symbol) [0x00007FF766A2EB9F]
+	(No symbol) [0x00007FF766A2A854]
+	(No symbol) [0x00007FF766A2A9ED]
+	(No symbol) [0x00007FF766A1A1D9]
+	BaseThreadInitThunk [0x00007FFE90BF257D+29]
+	RtlUserThreadStart [0x00007FFE92E8AF08+40]
+
+2024-12-07 22:42:26,556 - Error pada link https://dapo.kemdikbud.go.id/sekolah/D934DF933A8EC27DFF99                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 22:43:19,606 - Error pada link https://dapo.kemdikbud.go.id/sekolah/03EB7DAE6D0C826601A2                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 22:43:39,072 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6A8FFA580E2C881FC074                                                                                : list index out of range
+2024-12-07 22:44:15,212 - Error pada link https://dapo.kemdikbud.go.id/sekolah/438AE7F56E3AECD2F775                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 22:47:50,429 - Error pada link https://dapo.kemdikbud.go.id/sekolah/7E63F087E0412BFE9D87                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 22:50:18,831 - Error pada link https://dapo.kemdikbud.go.id/sekolah/FB869B44EF6A85B3D89A                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 22:54:36,046 - Error pada link https://dapo.kemdikbud.go.id/sekolah/F317DE71BDEE8C7B4156                                                                                : Message: timeout: Timed out receiving message from renderer: 288.018
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF766AB6CF5+28821]
+	(No symbol) [0x00007FF766A23880]
+	(No symbol) [0x00007FF7668C578A]
+	(No symbol) [0x00007FF7668B3992]
+	(No symbol) [0x00007FF7668B365A]
+	(No symbol) [0x00007FF7668B1274]
+	(No symbol) [0x00007FF7668B1D1F]
+	(No symbol) [0x00007FF7668C084E]
+	(No symbol) [0x00007FF7668D492D]
+	(No symbol) [0x00007FF7668DB10A]
+	(No symbol) [0x00007FF7668B2484]
+	(No symbol) [0x00007FF7668D4753]
+	(No symbol) [0x00007FF76695F75A]
+	(No symbol) [0x00007FF76693F0A3]
+	(No symbol) [0x00007FF76690A778]
+	(No symbol) [0x00007FF76690B8E1]
+	GetHandleVerifier [0x00007FF766DEFCED+3408013]
+	GetHandleVerifier [0x00007FF766E0745F+3504127]
+	GetHandleVerifier [0x00007FF766DFB63D+3455453]
+	GetHandleVerifier [0x00007FF766B7BDFB+835995]
+	(No symbol) [0x00007FF766A2EB9F]
+	(No symbol) [0x00007FF766A2A854]
+	(No symbol) [0x00007FF766A2A9ED]
+	(No symbol) [0x00007FF766A1A1D9]
+	BaseThreadInitThunk [0x00007FFE90BF257D+29]
+	RtlUserThreadStart [0x00007FFE92E8AF08+40]
+
+2024-12-07 22:57:20,890 - Error pada link https://dapo.kemdikbud.go.id/sekolah/8A363EDFF1A9860B0D29                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 22:59:56,150 - Error pada link https://dapo.kemdikbud.go.id/sekolah/575122468BD9F3863030                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 23:01:15,386 - Error pada link https://dapo.kemdikbud.go.id/sekolah/58A7F10D40711ADC20F4                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:02:08,688 - Error pada link https://dapo.kemdikbud.go.id/sekolah/B6C2972A70FBB6B4F361                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:02:46,157 - Error pada link https://dapo.kemdikbud.go.id/sekolah/AC476681E7B2947907E0                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:03:28,941 - Error pada link https://dapo.kemdikbud.go.id/sekolah/9BF60EFEB348F1ABB23A                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:03:34,773 - Error pada link https://dapo.kemdikbud.go.id/sekolah/BE295F6D96E684BE05AA                                                                                : list index out of range
+2024-12-07 23:05:09,146 - Error pada link https://dapo.kemdikbud.go.id/sekolah/EAB1982E72042B1764F7                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:05:16,633 - Error pada link https://dapo.kemdikbud.go.id/sekolah/AD9E9B9A11C4B5FF5C32                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 23:07:59,609 - Error pada link https://dapo.kemdikbud.go.id/sekolah/4CED2247D4868863B31D                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 23:09:53,352 - Error pada link https://dapo.kemdikbud.go.id/sekolah/067317F56BE9A22FCFB5                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:12:50,169 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6976629166F583F34D4E                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:14:16,769 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6C3478DD324404FBD7AF                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:15:29,371 - Error pada link https://dapo.kemdikbud.go.id/sekolah/F2A81C7289D6C4DEE8D2                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:15:49,091 - Error pada link https://dapo.kemdikbud.go.id/sekolah/909AFCBD6ECB8F70475D                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:17:27,684 - Error pada link https://dapo.kemdikbud.go.id/sekolah/F2A37C65849CB837C0E5                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:20:46,248 - Error pada link https://dapo.kemdikbud.go.id/sekolah/545D2514536CCB943A2B                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:21:43,915 - Error pada link https://dapo.kemdikbud.go.id/sekolah/2EE6BE33CF972E4FD58F                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:22:51,905 - Error pada link https://dapo.kemdikbud.go.id/sekolah/CD2440AF461D57EA0328                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:23:47,456 - Error pada link https://dapo.kemdikbud.go.id/sekolah/D99BA03B749EBC448DA4                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 23:24:37,196 - Error pada link https://dapo.kemdikbud.go.id/sekolah/1DD400352D0E1A9BF922                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:27:40,842 - Error pada link https://dapo.kemdikbud.go.id/sekolah/CD34C66DB13D09C7A4AD                                                                                : list index out of range
+2024-12-07 23:33:12,354 - Error pada link https://dapo.kemdikbud.go.id/sekolah/D34B6D71620DF77291F6                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:36:58,383 - Error pada link https://dapo.kemdikbud.go.id/sekolah/42483EFF850E5A698911                                                                                : list index out of range
+2024-12-07 23:37:07,035 - Error pada link https://dapo.kemdikbud.go.id/sekolah/A28C7E756282230C5DFB                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:39:12,656 - Error pada link https://dapo.kemdikbud.go.id/sekolah/289911E31BA97B6D67C0                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:39:31,143 - Error pada link https://dapo.kemdikbud.go.id/sekolah/2D99A51C53521A327DB3                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-07 23:40:09,322 - Error pada link https://dapo.kemdikbud.go.id/sekolah/5DE54D230910DAD63F9F                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:43:27,330 - Error pada link https://dapo.kemdikbud.go.id/sekolah/CB250C025602CAC47305                                                                                : list index out of range
+2024-12-07 23:43:43,652 - Error pada link https://dapo.kemdikbud.go.id/sekolah/4BA7EFF1EB45CB490B08                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:44:40,662 - Error pada link https://dapo.kemdikbud.go.id/sekolah/7A5795AA280E6ED72E66                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:45:20,306 - Error pada link https://dapo.kemdikbud.go.id/sekolah/13C2382CE2FE7EE034AE                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:47:07,694 - Error pada link https://dapo.kemdikbud.go.id/sekolah/83C1BA3FF7BAC0A38A14                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-07 23:47:25,000 - Error pada link https://dapo.kemdikbud.go.id/sekolah/EEFE18B9C74E434C80E4                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:50:28,159 - Error pada link https://dapo.kemdikbud.go.id/sekolah/B72A47E7DF1664DC9F6D                                                                                : list index out of range
+2024-12-07 23:51:00,513 - Error pada link https://dapo.kemdikbud.go.id/sekolah/A281594478DC3D307033                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:51:43,316 - Error pada link https://dapo.kemdikbud.go.id/sekolah/1EA6A81CC9ECEF6B4450                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:56:34,772 - Error pada link https://dapo.kemdikbud.go.id/sekolah/246450E070E6082B1F61                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-07 23:56:50,415 - Error pada link https://dapo.kemdikbud.go.id/sekolah/34A4C8A0EB0CCF873E85                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-07 23:58:39,729 - Error pada link https://dapo.kemdikbud.go.id/sekolah/214BB7632432143EF0D4                                                                                : list index out of range
+2024-12-07 23:59:18,188 - Error pada link https://dapo.kemdikbud.go.id/sekolah/B6B4FAB3A50C973A50FF                                                                                : list index out of range
+2024-12-08 00:03:55,020 - Error pada link https://dapo.kemdikbud.go.id/sekolah/AD46752D660FEE1B6333                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-08 00:04:05,931 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6AE18F2386320C74301B                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-08 00:06:47,368 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6A3509C8BBDFF1AF4DFD                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-08 00:07:14,524 - Error pada link https://dapo.kemdikbud.go.id/sekolah/2EA3E69023BE570D7CD6                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-08 00:10:53,750 - Error pada link https://dapo.kemdikbud.go.id/sekolah/8C5EA2F787924FB04834                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-08 00:11:43,820 - Error pada link https://dapo.kemdikbud.go.id/sekolah/E59138DDD4E4F78BBDFA                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-08 00:14:50,526 - Error pada link https://dapo.kemdikbud.go.id/sekolah/662B760542F6A9318756                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-08 00:15:53,577 - Error pada link https://dapo.kemdikbud.go.id/sekolah/632834561F1B637BD1E4                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-08 00:16:28,183 - Error pada link https://dapo.kemdikbud.go.id/sekolah/E30258A6D1FF7A15114C                                                                                : list index out of range
+2024-12-08 00:16:37,534 - Error pada link https://dapo.kemdikbud.go.id/sekolah/51E57360C14CDBF68B15                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-08 00:17:00,795 - Error pada link https://dapo.kemdikbud.go.id/sekolah/785CFC5D04D71D563155                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-08 00:17:22,399 - Error pada link https://dapo.kemdikbud.go.id/sekolah/15298F9328AD2418C014                                                                                : list index out of range
+2024-12-08 00:19:22,514 - Error pada link https://dapo.kemdikbud.go.id/sekolah/4DBD414E32FAE684D475                                                                                : 'NoneType' object has no attribute 'get_text'
+2024-12-08 00:21:46,031 - Error pada link https://dapo.kemdikbud.go.id/sekolah/09DC2DE09D9560B346C4                                                                                : 'NoneType' object has no attribute 'find_all'
+2024-12-08 00:22:27,385 - Error pada link https://dapo.kemdikbud.go.id/sekolah/C4ED5B5E64DDF3234B72                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-08 00:22:41,377 - Error pada link https://dapo.kemdikbud.go.id/sekolah/FE9CA3A11244E2456A12                                                                                : 'NoneType' object has no attribute 'findAll'
+2024-12-08 00:24:50,979 - Error pada link https://dapo.kemdikbud.go.id/sekolah/6CC8592B5DF216AD91B5                                                                                : Elemen 'container isi' tidak ditemukan.
+2024-12-08 00:27:10,491 - Error pada link https://dapo.kemdikbud.go.id/sekolah/7C3AECB817C34DD8D307                                                                                : 'NoneType' object has no attribute 'get_text'
